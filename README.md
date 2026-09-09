@@ -4,7 +4,7 @@ An interactive Power BI dashboard developed to analyze retail sales performance 
 
 The project transforms the Sample Superstore dataset into an interactive business intelligence dashboard designed to identify sales trends, profitability patterns, customer behavior, and operational performance.
 
-![Retail Sales Performance Dashboard](images/main-dashboard.png)
+![Retail Sales Performance Dashboard](images/1.png)
 
 ## 🎯 Project Objectives
 
